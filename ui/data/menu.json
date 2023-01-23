@@ -1,0 +1,15 @@
+{
+  "menu": [{
+    "dashboard": {
+      "title" : "",
+      "icon": ""
+
+    }, 
+    "resultRecord": {
+      "title": "",
+      "icon": ""
+    }
+  }
+    
+  ]
+}
